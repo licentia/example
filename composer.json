@@ -1,0 +1,9 @@
+{
+	"name": "licentia/example",
+	"description": "Composer Project for Autoloading exercise",
+	"version": "v1.0.0",
+	"license": "MIT",
+	"type": "project",
+	"require": {},
+	"require-dev": {},
+}
